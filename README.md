@@ -59,6 +59,13 @@ public class MateusVinicius {
 - [Freelancer Marketplace](https://github.com/mateusvinicius-dev/Projeto_freelancer)
 - [Library Management System](https://github.com/mateusvinicius-dev/Sistema-biblioteca)
 
+
 ## 🌎 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-vinicius-6a8538306/)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-vin%C3%ADcius-6a8538306)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mateusvinicius-dev)
+
+</div>
